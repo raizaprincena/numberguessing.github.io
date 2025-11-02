@@ -6,11 +6,6 @@ It’s an easy project made for beginners who want to learn the basics of web de
 
 ---
 
-## 🌐 Live Demo
-👉 [Play the game here!](https://numberguessing.github.io)
-
----
-
 ## 🕹️ How to Play
 1. The game will tell you a number range (like **1–50**, **1–75**, or **1–100**).
 2. You have **5 tries** to guess the correct number.
@@ -35,20 +30,3 @@ It’s an easy project made for beginners who want to learn the basics of web de
 - Clean and colorful UI  
 
 ---
-
-## 💖 Personal Note
-I made this project as a fun way to practice web programming — and it turned out to be more enjoyable than expected!  
-Sometimes, I even play this little guessing game with my **boyfriend**, and we take turns guessing who gets closer to the secret number first.  
-It’s a cute and simple way to relax and share some laughs while learning something new. 😊
-
----
-
-## 📚 Learning Goal
-This project helped me understand:
-- How JavaScript handles random numbers and conditions  
-- How to style buttons, inputs, and layout using CSS  
-- How to organize a small web app into separate files  
-
----
-
-## 📁 Files Included
